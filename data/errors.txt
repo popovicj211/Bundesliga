@@ -1,0 +1,10 @@
+Error database connection:SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Error database connection:SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Error database connection:SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Error insert email for subscribe:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_sub' in 'field list'
+Error insert email for subscribe:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_sub' in 'field list'
+Error insert email for subscribe:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_sub' in 'field list'
+Error database connection:SQLSTATE[HY000] [1049] Unknown database 'bundesliga'
